@@ -1,0 +1,12 @@
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/bin/Debug/net7.0/Villa.Entity.deps.json
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/bin/Debug/net7.0/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/bin/Debug/net7.0/Villa.Entity.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.AssemblyInfoInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.AssemblyInfo.cs
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.csproj.CoreCompileInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/refint/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/ref/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Entity/obj/Debug/net7.0/Villa.Entity.csproj.AssemblyReference.cache

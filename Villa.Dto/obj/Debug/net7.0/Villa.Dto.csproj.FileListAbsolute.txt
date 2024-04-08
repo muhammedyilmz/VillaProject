@@ -1,0 +1,12 @@
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/bin/Debug/net7.0/Villa.Dto.deps.json
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/bin/Debug/net7.0/Villa.Dto.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/bin/Debug/net7.0/Villa.Dto.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.AssemblyInfoInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.AssemblyInfo.cs
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.csproj.CoreCompileInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/refint/Villa.Dto.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/ref/Villa.Dto.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Dto/obj/Debug/net7.0/Villa.Dto.csproj.AssemblyReference.cache

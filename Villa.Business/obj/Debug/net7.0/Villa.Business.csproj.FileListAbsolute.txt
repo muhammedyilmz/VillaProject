@@ -1,0 +1,17 @@
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.Business.deps.json
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.Business.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.Business.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.AssemblyInfoInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.AssemblyInfo.cs
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.csproj.CoreCompileInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/refint/Villa.Business.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/ref/Villa.Business.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.DataAccess.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.Entity.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/bin/Debug/net7.0/Villa.DataAccess.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.csproj.AssemblyReference.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.Business/obj/Debug/net7.0/Villa.Business.csproj.CopyComplete

@@ -1,0 +1,259 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Villa.WebUI
+build_property.RootNamespace = Villa.WebUI
+build_property.ProjectDir = /Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Banner/CreateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0NyZWF0ZUJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Banner/UpdateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFubmVyL1VwZGF0ZUJhbm5lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Contact/CreateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9DcmVhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Contact/UpdateContact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ29udGFjdC9VcGRhdGVDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Counter/CreateCounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRlci9DcmVhdGVDb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Counter/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRlci9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Counter/UpdateCounter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQ291bnRlci9VcGRhdGVDb3VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Deal/CreateDeal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVhbC9DcmVhdGVEZWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Deal/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVhbC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Deal/UpdateDeal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVhbC9VcGRhdGVEZWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGVmYXVsdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Feature/CreateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9DcmVhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Feature/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Feature/UpdateFeature.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRmVhdHVyZS9VcGRhdGVGZWF0dXJlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Message/CreateMessage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2FnZS9DcmVhdGVNZXNzYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Message/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2FnZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Message/MessageDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVzc2FnZS9NZXNzYWdlRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Product/CreateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9DcmVhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Product/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Product/ProductDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9Qcm9kdWN0RGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Product/UpdateProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9VcGRhdGVQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Question/CreateQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb24vQ3JlYXRlUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Question/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb24vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Question/UpdateQuestion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUXVlc3Rpb24vVXBkYXRlUXVlc3Rpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminFooter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluRm9vdGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminHead/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluSGVhZC9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminLogo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluTG9nby9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminNavbar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluTmF2YmFyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminPreloader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluUHJlbG9hZGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminScripts/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluU2NyaXB0cy9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_AdminSidebar/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0FkbWluU2lkZWJhci9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultBanner/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRCYW5uZXIvRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultContact/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRDb250YWN0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultCounter/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRDb3VudGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultDeal/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHREZWFsL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultFeature/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRGZWF0dXJlL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultMessage/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRNZXNzYWdlL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultProduct/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRQcm9kdWN0L0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultQuestion/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRRdWVzdGlvbi9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_DefaultVideo/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX0RlZmF1bHRWaWRlby9EZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Components/_UISubHeader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0NvbXBvbmVudHMvX1VJU3ViSGVhZGVyL0RlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/SubHeader/CreateSubHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViSGVhZGVyL0NyZWF0ZVN1YkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/SubHeader/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViSGVhZGVyL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/SubHeader/UpdateSubHeader.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU3ViSGVhZGVyL1VwZGF0ZVN1YkhlYWRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Video/CreateVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlkZW8vQ3JlYXRlVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Video/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlkZW8vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Video/UpdateVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVmlkZW8vVXBkYXRlVmlkZW8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/muhammedyilmaz/Desktop/Villa State/Villa.WebUI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-szfzhcu3mk

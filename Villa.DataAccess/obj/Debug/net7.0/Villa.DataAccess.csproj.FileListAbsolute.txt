@@ -1,0 +1,15 @@
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/bin/Debug/net7.0/Villa.DataAccess.deps.json
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/bin/Debug/net7.0/Villa.DataAccess.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/bin/Debug/net7.0/Villa.DataAccess.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.AssemblyInfoInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.AssemblyInfo.cs
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.csproj.CoreCompileInputs.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/refint/Villa.DataAccess.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/ref/Villa.DataAccess.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.csproj.AssemblyReference.cache
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/bin/Debug/net7.0/Villa.Entity.dll
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/bin/Debug/net7.0/Villa.Entity.pdb
+/Users/muhammedyilmaz/Desktop/Villa State/Villa.DataAccess/obj/Debug/net7.0/Villa.DataAccess.csproj.CopyComplete
